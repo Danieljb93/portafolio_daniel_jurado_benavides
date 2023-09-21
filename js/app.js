@@ -89,10 +89,7 @@ let contenidoSlide2 = `   <div class="slide proyecto2" id="slideEdit2">
 
         </div>
       </div>
-`;
-
-let contenidoSlide3 = `<div class="galeria ">
-<!--RESTAURANTE-->
+	  <!--RESTAURANTE-->
           <div class="foto">
             <div class="contenedor-modal">
               <img src="img/eva.png" alt="" />
@@ -127,7 +124,8 @@ let contenidoSlide3 = `<div class="galeria ">
 
           
         </div>
-      </div>`;
+      </div>
+`;
 
 let slideEdit2 = document.getElementById("slideEdit2");
 containerGaleria = document.getElementById("containerGaleria");
