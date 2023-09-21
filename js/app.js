@@ -69,22 +69,7 @@ let contenidoSlide1 = ` <div class="container-title">
 let contenidoSlide2 = `   <div class="slide proyecto2" id="slideEdit2">
 
 
-<!--RESTAURANTE-->
-          <div class="foto">
-            <div class="contenedor-modal">
-              <img src="img/eva.png" alt="" />
-              <div class="overlay">
-                <h5> <img src="img/logo.png" alt="">Restaurante</h5>
-                <p>Sitio web, adapatado para todas las plataformas y realizado Se creó un sitio web utilizando HTML, CSS y  JavaScript, ademas con estilos de bootstrap </p>
-                <br><a href="https://evalounge.netlify.app/"  target="_blank">
-                  <h3>Ver sitio web</h3>
-                </a>
-                <br> <a href="https://github.com/Danieljb93/evalounge_DanielJuradoBenavides"  target="_blank">
-                  <h3> Ver repositorio</h3>
-                </a>
-              </div>
-            </div>
-          </div>
+
           <!--ECOMMERS-->
           
           <div class="foto">
@@ -107,6 +92,22 @@ let contenidoSlide2 = `   <div class="slide proyecto2" id="slideEdit2">
 `;
 
 let contenidoSlide3 = `<div class="galeria ">
+<!--RESTAURANTE-->
+          <div class="foto">
+            <div class="contenedor-modal">
+              <img src="img/eva.png" alt="" />
+              <div class="overlay">
+                <h5> <img src="img/logo.png" alt="">Restaurante</h5>
+                <p>Sitio web, adapatado para todas las plataformas y realizado Se creó un sitio web utilizando HTML, CSS y  JavaScript, ademas con estilos de bootstrap </p>
+                <br><a href="https://evalounge.netlify.app/"  target="_blank">
+                  <h3>Ver sitio web</h3>
+                </a>
+                <br> <a href="https://github.com/Danieljb93/evalounge_DanielJuradoBenavides"  target="_blank">
+                  <h3> Ver repositorio</h3>
+                </a>
+              </div>
+            </div>
+          </div>
 <!--FERRETERIA-->
           <div class="foto">
             <div class="contenedor-modal">
